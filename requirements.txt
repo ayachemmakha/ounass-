@@ -4,3 +4,8 @@ numpy
 pandas
 matplotlib
 joblib
+streamlit
+joblib
+scikit-learn
+pandas
+numpy
